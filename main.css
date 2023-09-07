@@ -1,0 +1,19 @@
+body {
+    background: radial-gradient (grey, darkgray)
+    color: black
+    text-align: center;
+    height: 30vh;
+}
+
+main {
+    background: radial-gradient (gray, darkgoldenrod)
+    color: black
+    text-align: left;
+    height: 30vh;
+    img: center
+
+}
+
+img {
+    width: 400px,
+    height: 300px }
